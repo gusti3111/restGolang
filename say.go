@@ -1,8 +1,6 @@
 package restgolang
 
-import "fmt"
-
-func () string {
+func SayHello() string {
 	return "Hello"
-	
+
 }
